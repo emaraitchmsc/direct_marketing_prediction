@@ -27,7 +27,7 @@ The project covers the **entire predictive analytics workflow**: data exploratio
     - Handling missing values and outliers
     - Visualizing feature distributions
 
-    <!-- ![EDA Visual](eda.png) -->
+![EDA Visual](eda.png)
 
 2. **Preprocessing**
     - Feature engineering (creation, encoding, scaling)
