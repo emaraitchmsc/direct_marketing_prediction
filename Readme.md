@@ -13,8 +13,9 @@ The project covers the **entire predictive analytics workflow**: data exploratio
 
 ```text
 ├── Reza's ML&PA Assignment.ipynb   # Main notebook
-├── images/
-│   └── [charts, visualizations]
+├── banner.png
+├── eda.png
+├── model_performance.png
 ├── README.md
 ```
 ---
